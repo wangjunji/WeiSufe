@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="b6004316704d42fc97a26008f8689208" Name="关系图1">
-        <EntityTypeShape EntityType="DBModel.User" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.Timetable" Width="1.5" PointX="2.8982990006442644" PointY="6.7226460160327361" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
